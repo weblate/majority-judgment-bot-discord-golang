@@ -246,7 +246,7 @@ func (r DiscordResponder) RespondPollResult(
 			}
 		}
 
-		ctx, cancel := context.WithTimeout(context.TODO(), 20*time.Second)
+		ctx, cancel := context.WithTimeout(context.TODO(), 120*time.Second)
 		defer cancel()
 
 		// Discord does not render SVG files (although it's somewhat safe in img tags, right?)

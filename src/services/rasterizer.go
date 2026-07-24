@@ -162,7 +162,7 @@ var testSvg = `<?xml version="1.0"?>
 </svg>`
 
 func (service *Rasterizer) Test() error {
-	ctx, cancel := context.WithTimeout(context.TODO(), 20*time.Second)
+	ctx, cancel := context.WithTimeout(context.TODO(), 120*time.Second)
 	defer cancel()
 	_, err := service.ConvertSVGToPNG(ctx, []byte(testSvg))
 	return err
