@@ -12,7 +12,7 @@ RUN --mount=type=cache,sharing=locked,target=/var/lib/apt/lists \
     --mount=type=cache,sharing=locked,target=/var/cache/apt \
     ls -FlAh /etc/apt/apt.conf.d/ \
     && rm -f /etc/apt/apt.conf.d/docker-clean \
-    && apt-get update \
+    && apt-get --allow-releaseinfo-change update \
     && apt-get --yes --no-install-recommends install \
         fonts-noto \
         fonts-noto-cjk \
