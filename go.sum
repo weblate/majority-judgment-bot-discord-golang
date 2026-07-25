@@ -61,6 +61,8 @@ github.com/mieuxvoter/merit-profile-library-go v1.0.0 h1:OHL1lGXPb+AspyOlEuh6Sk3
 github.com/mieuxvoter/merit-profile-library-go v1.0.0/go.mod h1:cJf8AeJpQLUYdn7fHdo+CQvpySh34pSBNAHSeR4gpTI=
 github.com/mieuxvoter/merit-profile-library-go v1.1.0 h1:8hw3+fTs/a+2hzF22UZpRns+Vswspdti3z6+0/Aj9Ow=
 github.com/mieuxvoter/merit-profile-library-go v1.1.0/go.mod h1:cJf8AeJpQLUYdn7fHdo+CQvpySh34pSBNAHSeR4gpTI=
+github.com/mieuxvoter/merit-profile-library-go v1.2.0 h1:xrsNdR5YI4Y4DwG/dZEic7KXjcJabK10TqsV/ttWVeU=
+github.com/mieuxvoter/merit-profile-library-go v1.2.0/go.mod h1:cJf8AeJpQLUYdn7fHdo+CQvpySh34pSBNAHSeR4gpTI=
 github.com/mozillazg/go-slugify v0.2.0 h1:SIhqDlnJWZH8OdiTmQgeXR28AOnypmAXPeOTcG7b9lk=
 github.com/mozillazg/go-slugify v0.2.0/go.mod h1:z7dPH74PZf2ZPFkyxx+zjPD8CNzRJNa1CGacv0gg8Ns=
 github.com/mozillazg/go-unidecode v0.2.0 h1:vFGEzAH9KSwyWmXCOblazEWDh7fOkpmy/Z4ArmamSUc=

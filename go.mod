@@ -10,7 +10,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/mattn/go-sqlite3 v1.14.44
 	github.com/mieuxvoter/majority-judgment-library-go v0.3.3
-	github.com/mieuxvoter/merit-profile-library-go v1.1.0
+	github.com/mieuxvoter/merit-profile-library-go v1.2.0
 	github.com/mozillazg/go-slugify v0.2.0
 	github.com/nicksnyder/go-i18n/v2 v2.6.1
 	github.com/sarulabs/di/v2 v2.5.2

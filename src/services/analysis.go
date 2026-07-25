@@ -36,9 +36,12 @@ func (service *Analysis) GenerateMeritProfileSVG(
 		merit.WithWidth(600),
 		merit.WithGradeHeight(48),
 		merit.WithBgColor(color.NRGBA{R: 32, G: 32, B: 32, A: 255}),
+		// Note: any font used here will need to be available in the Docker image; see Dockerfile
 		merit.WithFontFamily("Noto Sans, sans-serif"),
 		merit.WithProposalFontSize("28"),
 		merit.WithTallyFontSize("20"),
+		merit.WithTextOutlineColor(color.White),
+		merit.WithTextOutlineWidth(3.0),
 		merit.WithBestGradeOnLeft(true),
 		merit.WithGradesOutlines(intGradesOutlines),
 		merit.WithGradesOutlinesWidth(3.0),
