@@ -1,1 +1,188 @@
 
+[FeedbackBotIsRunningPressCtrlC]
+other = "Boti MJ po funksionon. Shtypni CTRL+C për të dalë."
+
+[FeedbackBotShuttingDown]
+other = "Po mbyllet…"
+
+[FeedbackBotSynchronizingCommands]
+other = "Po sinkronizohen komandat me Discord…"
+
+[FeedbackBotDoneSynchronizingCommands]
+other = "Përfundoi sinkronizimi i komandave me Discord."
+
+[BallotSummaryVoteRecorded]
+other = "Vota u regjistrua!"
+
+[BallotSummaryHereIsSummary]
+other = "Këtu është përmbledhja e gjykimeve tuaja:"
+
+[DescriptionOfMeritProfileOfPoll]
+other = "Profili i meritës i sondazhit «{{.Name}}»"
+
+[SecretBallot]
+other = "votim sekret"
+
+[SomeParticipants]
+zero = "Asnjë pjesëmarrës"
+one = "Një pjesëmarrës"
+other = "{{.Amount}} pjesëmarrës"
+
+[TheFavoriteProposalIs]
+other = "Propozimi i preferuar është"
+
+[TheFavoriteProposalsAre]
+other = "Propozimet e preferuara janë"
+
+[InformAboutAmbiguousMedian]
+other = "Mesatarja është midis dy notave të ndryshme (numri i pjesëmarrësve është çift).  Sondazhi është konfiguruar të zgjedhë atë më të ulëtën (favorizon lehtë kundërshtimin)."
+
+[ActionVote]
+other = "Voto"
+
+[ActionShowResults]
+other = "Trego rezultatet"
+
+[ActionPublish]
+other = "Publiko"
+
+[CommandMjCreateName]
+other = "krijo"
+
+[CommandMjCreateDescription]
+other = "Krijo një sondazh të ri"
+
+[CommandMjExplainName]
+other = "shpjego"
+
+[CommandMjExplainDescription]
+other = "Shpjego Majority Judgment sikur të jesh pesë vjeç"
+
+[CommandMjHelpName]
+other = "ndihmë"
+
+[CommandMjHelpDescription]
+other = "Ndihmë e përgjithshme se si të ndërveprosh me mua"
+
+[CommandMjInfoName]
+other = "info"
+
+[CommandMjInfoDescription]
+other = "Shfaq informacione të ndryshme rreth meje në këtë server"
+
+[HelpHello]
+other = "Përshëndetje!"
+
+[HelpMyPurposeIs]
+other = "Qëllimi im është t'ju ndihmoj të krijoni sondazhe Majority Judgment."
+
+[HelpWhatIsMj]
+other = "Çfarë është Majority Judgment?"
+
+[HelpWhatIsMjAnswer]
+other = "Një **sistem votimi** shumë i mrekullueshëm.  Përdoret në garat franceze :flag_fr: të verës 🍷.  Është i thjeshtë, i hollë dhe i drejtë."
+
+[HelpCanBotReadMessage]
+other = "A mund ta lexojë ky bot mesazhet tona?"
+
+[HelpCanBotReadMessageAnswer]
+other = "**Jo.**  Për privatësi të shtuar, ky bot modern NUK lejohet të lexojë mesazhe, por vetëm të reagojë ndaj komandës së vet `/mj` dhe ndërveprimeve me butona."
+
+[HelpCanUseMoreThanFiveGrades]
+other = "A mund të përdor më shumë se 5 nota?"
+
+[HelpCanUseMoreThanFiveGradesAnswer]
+other = "**Jo për tani.**  Discord kufizon mesazhet në 5 butona për rresht veprimi, kështu që do të na duhet më shumë zgjuarsi për të mbështetur më shumë nota."
+
+[HelpCanUseMoreProposals]
+other = "A mund të përdor më shumë se 5 propozime?"
+
+[HelpCanUseMoreProposalsAnswer]
+other = "**Po.**  Discord nuk lejon komanda aplikacioni variadike, për tani, por si zgjidhje mund të specifikoni disa propozime për fushë, duke përdorur karakterin `|` si ndarës."
+
+[ExplainWhyMj]
+other = "Pse Majority Judgment?"
+
+[ExplainWhyMjSubtitle]
+other = "Sepse është aq i mrekullueshëm sa fjalë për fjalë nxjerr ylbere!  :rainbow: :poop:"
+
+[ExplainWhyMjParagraph]
+other = "Në _sondazhet e zakonshme me zgjedhje të vetme_, duhet të zgjidhni një _— dhe vetëm një —_ propozim, dhe të refuzoni njëlloj të gjithë të tjerët, edhe pse ndoshta preferoni njërin mbi tjetrin nga ata të refuzuarit.\n\nKjo mungesë hollësie ka pasoja të tmerrshme për cilësinë e sondazhit dhe të demokracisë në përgjithësi, si _sistemi dypartiak_ i përbuzur gjerësisht në SHBA dhe _vota e dobishme_ po aq e urryer në Francë.\n\nNë _sondazhet Majority Judgment_, mund të jepni mendimin tuaj për çdo propozim.\n\nTani më në fund mund të thoni se ju pëlqejnë të dyja bananet **dhe** luleshtrydhet më shumë se spinaqi!  E mrekullueshme, apo jo?\n"
+
+[ExplainHowMj]
+other = "Si renditen propozimet në fund?"
+
+[ExplainHowMjSubtitle]
+other = "Magji, sigurisht!  :magic_wand:  _(thjesht po bëj shaka)_"
+
+[ExplainHowMjParagraph]
+other = "Propozimet renditen sipas _notës mesatare_, e quajtur edhe _nota e shumicës_.\n\nNota mesatare është nota që është pikërisht në mes ; kjo është arsyeja pse tregojmë një vijë vertikale në mes të profileve të meritës.\n"
+
+[ExplainCheatMj]
+other = "A mund të mashtroj?"
+
+[ExplainCheatMjSubtitle]
+other = "Jo, sa ne e dimë.  :sauropod: :seedling:"
+
+[ExplainCheatMjParagraph]
+other = "Majority Judgment u zbulua nga dy shkencëtarë _(Michel Balinski & Rida Laraki)_ në 2003, dhe qëllimi i tyre ishte pikërisht të gjenin një sistem votimi që ishte _anti-strategjik_.\n\nNëse mendoni se keni gjetur një mënyrë për të mashtruar ose për të përmirësuar këtë bot, ejani në Discord-in tonë.\n"
+
+[ParameterSubject]
+other = "subjekti"
+
+[ParameterSubjectDescription]
+other = "Subjekti i sondazhit, si p.sh. \"Data e takimit\""
+
+[ParameterProposalA]
+other = "propozimi_a"
+
+[ParameterProposalADescription]
+other = "Emri i propozimit të parë, si p.sh. \"E premtja\""
+
+[ParameterProposalB]
+other = "propozimi_b"
+
+[ParameterProposalBDescription]
+other = "Emri i propozimit të dytë, si p.sh. \"Pica\""
+
+[ParameterProposalC]
+other = "propozimi_c"
+
+[ParameterProposalCDescription]
+other = "Emri i propozimit të tretë, si p.sh. \"Beaujolais\""
+
+[ParameterProposalD]
+other = "propozimi_d"
+
+[ParameterProposalDDescription]
+other = "Emri i propozimit të katërt, si p.sh. \"Michel\""
+
+[ParameterProposalE]
+other = "propozimi_e"
+
+[ParameterProposalEDescription]
+other = "Emri i propozimit të pestë, si p.sh. \"Coline\""
+
+[ParameterProposalF]
+other = "propozimi_f"
+
+[ParameterProposalFDescription]
+other = "Nëse keni nevojë për më shumë propozime, përdorni | si ndarës"
+
+[ParameterGrading]
+other = "notimi"
+
+[ParameterGradingDescription]
+other = "Notat që duhen përdorur në këtë sondazh"
+
+[ErrorPollNotFound]
+other = "Oh jo!  Ky sondazh ndoshta u fshi."
+
+[ErrorNoParticipants]
+other = "Askush nuk mori pjesë në këtë sondazh.  Provoni përsëri kur sondazhi të ketë pasur pjesëmarrës."
+
+[ErrorPollHasNoProposals]
+other = "Prit një minutë…  Ky sondazh nuk ka propozime !?"
+
+[ErrorPollCannotCountBallots]
+other = "Dështoi numërimi i votave!?  Ju lutemi njoftoni administratorin tuaj."
